@@ -1,0 +1,43 @@
+html {
+    background-color: #1b1b1b;
+    margin: 0px;
+    padding: 0px;
+}
+
+#card {
+    background-color: white;
+    width: 375px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 7px 7px 10px 4px rgba(0,0,0,0.55);
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    padding: 12px;
+    border-radius: 20px;
+}
+
+#topText, #bottomText {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+#topText {
+    font-weight: 700;
+    font-size: 26px;
+    opacity: 85%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#bottomText {
+    font-weight: 400;
+    opacity: 50%;
+    font-size: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
